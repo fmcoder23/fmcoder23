@@ -7,15 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/fmcoder05" target="blank"><img src="https://img.shields.io/twitter/follow/fmcoder05?logo=twitter&style=for-the-badge" alt="fmcoder05" /></a> </p>
 
-- 🔭 I’m currently working on **many projects for personal development and internship**
-
-- 🌱 I’m currently learning **Typescript, Nest.js and Docker**
-
-- 🤝 I’m looking for help with **building frontend for a project**
-
 - 📝 I regularly write articles on [https://t.me/foziljon_blog](https://t.me/foziljon_blog)
 
-- 💬 Ask me about **Node.js, Express, GraphQL, Postgresql, MongoDB, PG ORMs (Prisma, Knex.js, PG), Socket.io, Telegram BOT, EJS, etc...**
+- 💬 Ask me about **Node.js, Express, Nest.js, GraphQL, Postgresql, MongoDB, PG ORMs (Prisma, Knex.js, PG), Socket.io, Telegram BOT, EJS, etc...**
 
 - 📫 How to reach me **fmcoder23@gmail.com**
 
